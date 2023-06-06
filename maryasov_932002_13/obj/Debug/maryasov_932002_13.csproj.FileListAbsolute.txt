@@ -1,0 +1,10 @@
+C:\im\13\maryasov_932002_13\bin\Debug\maryasov_932002_13.exe.config
+C:\im\13\maryasov_932002_13\bin\Debug\maryasov_932002_13.exe
+C:\im\13\maryasov_932002_13\bin\Debug\maryasov_932002_13.pdb
+C:\im\13\maryasov_932002_13\obj\Debug\maryasov_932002_13.csproj.AssemblyReference.cache
+C:\im\13\maryasov_932002_13\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\im\13\maryasov_932002_13\obj\Debug\maryasov_932002_13.Properties.Resources.resources
+C:\im\13\maryasov_932002_13\obj\Debug\maryasov_932002_13.csproj.GenerateResource.cache
+C:\im\13\maryasov_932002_13\obj\Debug\maryasov_932002_13.csproj.CoreCompileInputs.cache
+C:\im\13\maryasov_932002_13\obj\Debug\maryasov_932002_13.exe
+C:\im\13\maryasov_932002_13\obj\Debug\maryasov_932002_13.pdb
